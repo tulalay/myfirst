@@ -8,4 +8,5 @@ public class SecondClass {
 
 
     private String name;
+    private String age;
 }
